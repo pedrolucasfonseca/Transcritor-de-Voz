@@ -24,7 +24,7 @@ Um projeto simples em Python que utiliza a biblioteca `SpeechRecognition` para c
 
 3. Execute o script:
    ```bash
-   python reconhecimento voz.py
+   python reconhecimento_voz.py
    ```
 
 ## 🧠 Como Funciona
