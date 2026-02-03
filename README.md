@@ -1,8 +1,8 @@
-# 🎙️ Reconhecimento de Voz com Python
+# Reconhecimento de Voz com Python
 
 Um projeto simples em Python que utiliza a biblioteca `SpeechRecognition` para capturar áudio do microfone e transcrevê-lo para texto em português.
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 - Captura de áudio via microfone
 - Transcrição automática usando o serviço da Google
@@ -27,13 +27,13 @@ Um projeto simples em Python que utiliza a biblioteca `SpeechRecognition` para c
    python reconhecimento_voz.py
    ```
 
-## 🧠 Como Funciona
+## Funcionamento
 
 - O script ajusta o microfone ao ruído ambiente.
 - Grava o áudio por um tempo definido (padrão: 10 segundos).
 - Utiliza o serviço de reconhecimento de voz da Google para transcrever o áudio.
 
-## 📌 Requisitos
+## Requisitos
 
 - Python 3.10 ou superior
 - Microfone funcional
