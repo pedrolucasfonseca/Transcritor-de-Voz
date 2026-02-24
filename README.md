@@ -13,7 +13,7 @@ Um projeto simples em Python que utiliza a biblioteca `SpeechRecognition` para c
 1. Clone o repositório:
    ```bash
    git clone https://github.com/pedrolucasfonseca/Transcritor-de-Voz.git
-   cd Reconhecimento-de-Voz
+   cd Transcritor-de-Voz
    ```
 
 2. Instale as dependências:
