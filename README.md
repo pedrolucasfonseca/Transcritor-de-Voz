@@ -37,10 +37,3 @@ Um projeto simples em Python que utiliza a biblioteca `SpeechRecognition` para c
 
 - Python 3.10 ou superior
 - Microfone funcional
-
-## 📷 Exemplo de Uso
-
-```bash
-Escutando...
-Transcrição: Olá, este é um teste de reconhecimento de voz.
-```
