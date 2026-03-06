@@ -1,6 +1,6 @@
 # Transcritor de Voz com Python
 
-Um projeto simples em Python que utiliza a biblioteca `SpeechRecognition` para capturar áudio do microfone e transcrevê-lo para texto em português.
+Projeto simples que utiliza a biblioteca `SpeechRecognition` para capturar áudio do microfone e transcrevê-lo automaticamente para texto em português, com suporte ao serviço de API da Google. Ideal para aplicações de acessibilidade, automação por voz e protótipos de assistentes virtuais.
 
 ## Funcionalidades
 
